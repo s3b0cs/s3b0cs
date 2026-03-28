@@ -4,7 +4,7 @@ My name is s3b0cs and im currently an Computer Science undergraduate Student in 
 
 
 #### 🔭 I’m currently working on:
-- My Bachelor Degree
+- My Bachelor's Degree
 - [Bonsai-rs](https://github.com/bonsai-rs)
 - Projects to early to be public
 
