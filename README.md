@@ -6,7 +6,7 @@ My name is s3b0cs and im currently an Computer Science undergraduate Student in 
 #### 🔭 I’m currently working on:
 - My Bachelor's Degree
 - [Bonsai-rs](https://github.com/bonsai-rs)
-- Projects to early to be public
+- Projects too early to be public
 
 #### 🌱 I’m currently learning:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
