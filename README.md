@@ -15,19 +15,4 @@ My name is s3b0cs and im currently an Computer Science undergraduate Student in 
 
 #### 📫 How to reach me:
 - [Mail](mailto:github@sebastianguenther.me)
-- carrier pigeon to my home
-
-<!--
-**s3b0cs/s3b0cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Carrier pigeon to my home
