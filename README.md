@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is s3b0cs and im currently an Computer Science undergraduate Student in Germany. 
+My name is s3b0cs and I'm currently a Computer Science undergraduate Student in Germany. 
 
 
 #### 🔭 I’m currently working on:
